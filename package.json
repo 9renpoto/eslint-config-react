@@ -28,6 +28,6 @@
     "url": "git+ssh://git@github.com/9renpoto/eslint-config-react.git"
   },
   "scripts": {
-    "test": "eslint ."
+    "test": "eslint . --cache --ext=js,jsx"
   }
 }

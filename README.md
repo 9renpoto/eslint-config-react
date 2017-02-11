@@ -1,5 +1,7 @@
 # @9renpoto/eslint-config-react
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/9renpoto/eslint-config-react.svg)](https://greenkeeper.io/)
+
 My eslint config react set.
 
 `eslint-config-standard-react` based

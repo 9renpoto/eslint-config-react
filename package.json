@@ -1,17 +1,17 @@
 {
   "name": "@9renpoto/eslint-config-react",
   "description": "my react eslint-config",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "9renpoto",
   "bugs": {
     "url": "https://github.com/9renpoto/eslint-config-react/pulls"
   },
   "dependencies": {
     "eslint-config-standard-react": "^5.0.0",
-    "eslint-plugin-react": "^7.0.0"
+    "eslint-plugin-react": "^7.2.1"
   },
   "devDependencies": {
-    "eslint": "^4.0.0"
+    "eslint": "^4.5.0"
   },
   "directories": {
     "test": "test"

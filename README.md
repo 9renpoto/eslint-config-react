@@ -1,14 +1,16 @@
 # @9renpoto/eslint-config-react
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/9renpoto/eslint-config-react.svg)](https://greenkeeper.io/)
-
 My eslint config react set.
 
 `eslint-config-standard-react` based
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
-[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![devDependency Status][dev-daviddm-image]][dev-daviddm-url]
+[![NPM version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Dependency Status][daviddm-image]][daviddm-url]
+[![devDependency Status][dev-daviddm-image]][dev-daviddm-url]
+[![Greenkeeper badge](https://badges.greenkeeper.io/9renpoto/eslint-config-react.svg)](https://greenkeeper.io/)
 
 ## Usage
 
